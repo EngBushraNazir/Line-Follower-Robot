@@ -1,2 +1,6 @@
 # Line-Follower-Robot
-A simple Arduino-based line follower robot using 4 IR sensors, 2 DC motors, and an L298N motor driver. The robot follows a black line on a white surface using a PID control algorithm for smoother navigation.
+This repository contains the code and documentation for an Arduino-based Line Follower Robot.
+
+## 📂 Files
+- **line-follower-code.docx** → Contains the Arduino code with explanations.  
+- **line-follower.pdf** → Project report explaining the design, components, and working principle.  

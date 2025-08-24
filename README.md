@@ -2,5 +2,6 @@
 This repository contains the code and documentation for an Arduino-based Line Follower Robot.
 
 ## 📂 Files
-- **line-follower-code.docx** → Contains the Arduino code with explanations.  
-- **line-follower.pdf** → Project report explaining the design, components, and working principle.  
+- [clk to show](line-follower-code.docx) the Arduino code with explanations.  
+- [clk to show](line-follower.pdf) Project report.
+- [clk to show](line-follower-robot.jpg) the connection.
